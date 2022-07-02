@@ -39,21 +39,21 @@ main{
 
 .img1{
   height: 150px;
-  background-image:url(flow01.png);
+  background-image: url(Exam/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .img2{
   height: 150px;
-  background-image:url(flow02.png);
+  background-image: url(Exam/flow02.png);
   background-size: cover;
   background-position: bottom;
   }
 
 .img3{
   height: 150px;
-  background-image:url(flow03.png);
+  background-image: url(Exam/flow03.png);
   background-size: cover;
   background-position: bottom;
 }

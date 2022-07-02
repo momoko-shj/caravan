@@ -39,21 +39,21 @@ main{
 
 .img1{
   height: 150px;
-  background-image:url(flow01.png);
+  background-image: url(Chp9-img/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .img2{
   height: 150px;
-  background-image:url(flow02.png);
+  background-image: url(Chp9-img/flow02.png);
   background-size: cover;
   background-position: bottom;
   }
 
 .img3{
   height: 150px;
-  background-image:url(flow03.png);
+  background-image: url(Chp9-img/flow03.png);
   background-size: cover;
   background-position: bottom;
 }
@@ -67,40 +67,4 @@ footer{
  background-color: #AAAAAA;
  height: 50px;
  width: 100%;
-}
-
-@media screen and (max-width: 768px) {
-  
-  main{
-  margin:50px auto;
-  width: 100%;
-  display: block;
-  }
-  
-  .box{
-  width: 100%;
-  background-color: #EEE;
-  margin-bottom:20px;
-  position: relative;
-  }
-  
-  .box:last-child{
-  margin-bottom: 0;
- }
-  
-  .img1{
-  width: 90%;
-  height: 150px;
-  }
-
-.img2{
-   width: 90%;
-   height: 150px;
-  }
-
-.img3{
-   width: 90%;
-   height: 150px;
-}
-  
 }

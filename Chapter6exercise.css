@@ -1,0 +1,34 @@
+  .img1{
+    width: 100%;
+    height:200px;
+    background-image: url(Chp6-img/box1.jpg);
+    background-size:cover;
+    background-position:center;}
+  
+  .img2{
+    width: 100%;
+    height:200px;
+    background-image: url(Chp6-img/box2.jpg);
+    background-size:cover;
+    background-position:center;
+  }
+  
+  .img3{
+    width: 100%;
+    height:200px;
+    background-image: url(Chp6-img/box3.jpg);
+    background-size:cover;
+    background-position:center;
+    
+  }
+  
+  
+  .img4{
+    width: 100%;
+    height:200px;
+    background-image: url(Chp6-img/box4.jpg);
+    background-size:cover;
+    background-position:center;
+    
+  }
+    
