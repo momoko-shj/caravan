@@ -78,8 +78,9 @@ footer{
   }
   
   .box{
-  width: 100%;
+  width:90%;
   background-color: #EEE;
+  margin:0 auto;
   margin-bottom:20px;
   position: relative;
   }
